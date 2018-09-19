@@ -11,6 +11,7 @@ public class GitController {
     public String hello(){
         System.out.println("生活如此美好");
         System.out.println("生活如此美好");
+        System.out.println("2018....");
         return "hello";
     }
 }
